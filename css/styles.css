@@ -33,7 +33,7 @@ h3{
 h2{
   color: var(--color-titulos);
   font-family: var(--tipo-letra);
-  padding: 0;
+  padding: center;
 }
 
 body{
