@@ -133,7 +133,6 @@ ul{
 
 .conte{
   display:flex; 
-  template-columns: auto auto;
   grid-gap: 10px;
 }
 .box{ 
