@@ -19,3 +19,17 @@ proyecto con su categoría.
 - Detalle de Proyecto (detalle.html): presenta información específica de un proyecto. Incluye 
 descripción, fecha, autores, recursos y equipo de trabajo.
 - Perfil de Usuario (perfil.html): muestra la información del usuario.
+
+## DESCRIPCIÓN DEL CSS:
+En :root tenemos configuraciones globales como el color del texto y la tipografía.
+Los encabezados (h1, h2, h3) tienen texto en mayúsculas, bordes, sombras (box-shadow) y 
+fondos con imágenes.
+Las imágenes (img) tienen un tamaño fijo grande (680x680).
+Los enlaces (a) tienen tamaño grande y negrita, facilitando su visibilidad como botones 
+de navegación.
+Los párrafos (p) y listas (ul) tienen bordes, sombras y estilo en cursiva.
+
+El diseño estructural se logra principalmente con Flexbox:
+- contenedor organiza elementos en fila.
+- caja define bloques grandes con centrado de contenido.
+- conte y .box organizan la información del perfil.
